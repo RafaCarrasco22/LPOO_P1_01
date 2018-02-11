@@ -1,0 +1,37 @@
+Capítulo 2.-
+
+Ejercicio 3.- Elija el mejor tipo de datos para cada uno de los siguientes casos, 
+de modo que se tenga en cuenta cualquier valor razonable pero no se desperdicie 
+el almacenamiento de la memoria. Dé un ejemplo del valor típico que tendría 
+la variable y explique por qué eligió el tipo que hizo.
+
+a. the number of siblings you have	
+b. your final grade in this class
+c. the population of Earth
+d. the population of a U.S. county
+e. the number of passengers on a bus
+f. one player’s score in a Scrabble game
+g. one team’s score in a Major League Baseball game
+h. the year an historical event occurred
+i. the number of legs on an animal
+
+		CASO					|	TIPO DE DATO
+-------------------------------------------------------------------------------
+a. the number of siblings you have			|	byte
+-------------------------------------------------------------------------------
+b. your final grade in this class			|	float
+-------------------------------------------------------------------------------
+c. the population of Earth				|	long
+-------------------------------------------------------------------------------
+d. the population of a U.S. county			|	int
+-------------------------------------------------------------------------------
+e. the number of passengers on a bus			|	byte
+-------------------------------------------------------------------------------
+f. one player’s score in a Scrabble game		|	short/int
+-------------------------------------------------------------------------------
+g. one team’s score in a Major League Baseball game	|	byte
+-------------------------------------------------------------------------------
+h. the year an historical event occurred		|	short
+-------------------------------------------------------------------------------
+i. the number of legs on an animal			|	short
+-------------------------------------------------------------------------------
