@@ -1,0 +1,36 @@
+Capítulo 1.-
+
+Ejercicio 1.- Para cada uno de los siguientes identificadores de Java, tenga en cuenta si es legal o ilegal:
+a. budgetApproval		b. German Shepherd
+c. static			d. HELLO
+e. 212AreaCode			f. qhu6TRfg
+g. ssn#				h. 4999
+i. 17				j. Accounts_Receivable
+k. 32MPG			l. rulesOfOrder
+
+
+	INDICADOR	|	LEGAL / ILEGAL
+--------------------------------------------------
+a. budgetApproval	|	legal
+--------------------------------------------------
+b. German Shepherd	|	ilegal
+--------------------------------------------------
+c. static		|	ilegal
+--------------------------------------------------
+d. HELLO		|	legal
+--------------------------------------------------
+e. 212AreaCode		|	ilegal
+--------------------------------------------------
+f. qhu6TRfg		|	legal
+--------------------------------------------------
+g. ssn#			|	ilegal
+--------------------------------------------------
+h. 4999			|	ilegal
+--------------------------------------------------
+i. 17			|	ilegal
+--------------------------------------------------
+j. Accounts_Receivable	|	legal
+--------------------------------------------------
+k. 32MPG		|	ilegal
+--------------------------------------------------
+l. rulesOfOrder		|	legal

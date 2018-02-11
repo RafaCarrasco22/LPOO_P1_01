@@ -1,0 +1,22 @@
+Capítulo 1.-
+
+Ejercicio 3.- Nombre al menos tres objetos que sean instancias de cada una de las siguientes clases:
+a. Song
+b. BaseballTeam
+c. Playwright
+
+a) Song
+	Song clintEastwood
+	Song myGirl
+	Song stillRapping
+
+b) BaseballTeam
+	BaseballTeam torosTijuana
+	BaseballTeam tomaterosCuliacan
+	BaseballTeam guerrerosOaxaca
+
+c) Playwright
+	Playwright lopeDeVega
+	Playwright sofocles
+	Playwright miguelDeCervantes
+	

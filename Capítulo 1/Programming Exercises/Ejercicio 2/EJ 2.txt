@@ -1,0 +1,36 @@
+Capítulo 1.-
+
+Ejercicio 2.- Nombre al menos tres atributos que podrían ser apropiados para cada uno de los siguientes clases:
+a. CruiseShip
+b. InsurancePolicy
+c. StudentAcademicRecord
+
+a)  CruiseShip:
+
+	1. nombreCrucero
+	2. nombreCompaniaOrganizadora
+	3. CantidadPasajeros
+	4. destino
+	5. velocidad
+	6. tiempoDeViaje
+	7. fechaSalida
+
+b) InsurancePolicy
+
+	1. nombreAseguradora
+	2. nombreCliente
+	3. domicilioCliente
+	4. tiposDeSeguros
+	5. duracionPorCadaTipo
+	6. precioSeguros
+	7. cantidadClientes
+
+c) StudentAcademicRecord
+
+	1. nombreEscuela
+	2. nombreProfesor
+	3. nombreEstudiante
+	4. asignatura
+	5. semestre
+	6. calificacionParcial
+	7. calificacionFinal

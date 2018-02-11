@@ -1,0 +1,21 @@
+Capítulo 1.-
+
+Ejercicio 4.- Nombra al menos tres clases a las que pueda pertenecer cada uno de estos objetos:
+a. myRedSweater
+b. londonEngland
+c. thursdaysDinner
+
+a) myRedSweater
+	class MiRopero
+	class Sueteres
+	class TipoSueter
+
+b) londonEngland
+	class Clima
+	class CiudadesEuropa
+	class CiudadesFamosas
+
+c) thurdaysDinner
+	class ComidaDelDia
+	class Cena
+	class Rutina
