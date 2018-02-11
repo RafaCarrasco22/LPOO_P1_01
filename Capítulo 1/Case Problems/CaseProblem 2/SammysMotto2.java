@@ -7,8 +7,8 @@ package capitulo1;
 
 public class SammysMotto2 {
     public static void main(String[] args) {
-        System.out.println("SsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSs");
-        System.out.println("s Carly's makes the food that makes it a party S");
-        System.out.println("SsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSs");
+        System.out.println("SsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSs");
+        System.out.println("s Sammy's makes it fun in the sun  S");
+        System.out.println("SsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSsSs");
     }
 }
