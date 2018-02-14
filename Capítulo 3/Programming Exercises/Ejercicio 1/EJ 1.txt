@@ -1,0 +1,30 @@
+Capítulo 3.-
+
+Ejercicio 1.- Supongamos que ha creado un programa con solo las siguientes variables:
+	int v = 4;
+	int w = 6;
+	double x = 2.2;
+Supongamos que también tiene un método con el siguiente encabezado:
+	public static void calculate(int x, double y)
+¿Cuáles de las siguientes llamadas a métodos son legales?
+a. calculate(v, w);
+b. calculate(v, x);
+c. calculate(x, y);
+d. calculate(18, x);
+e. calculate(1.1, 2.2);
+f. calculate(5, 7);
+
+	MÉTODO		|	LEGAL/ILEGAL
+------------------------------------------------
+a. calculate(v, w);	|	legal
+------------------------------------------------
+b. calculate(v, x);	|	legal
+------------------------------------------------
+c. calculate(x, y);	|	ilegal
+------------------------------------------------
+d. calculate(18, x);	|	legal
+------------------------------------------------
+e. calculate(1.1, 2.2);	|	ilegal
+------------------------------------------------
+f. calculate(5, 7);	|	legal
+------------------------------------------------

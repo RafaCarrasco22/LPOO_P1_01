@@ -1,0 +1,27 @@
+Capitulo 3.-
+
+Ejercicio 2.- Supongamos que una clase llamada ClassA contiene un entero privado no estático llamado b, a un 
+entero público no estático llamado c, y un entero público estático llamado d. De los cuales las siguientes 
+son declaraciones legales en una clase llamada ClassB que ha ejemplificado un objeto como 
+ClassA obA = new ClassA () ;?
+a. obA.b = 12;
+b. obA.c = 5;
+c. obA.d = 23;
+d. ClassA.b = 4;
+e. ClassA.c = 33;
+f. ClassA.d = 99;
+
+	DECLARACIONES	|	LEGAL
+------------------------------------------------
+a. obA.b = 12;		|
+------------------------------------------------
+b. obA.c = 5;		|	legal
+------------------------------------------------
+c. obA.d = 23;		|	legal
+------------------------------------------------
+d. ClassA.b = 4;	|
+------------------------------------------------
+e. ClassA.c = 33;	|
+------------------------------------------------
+f. ClassA.d = 99;	|	legal
+------------------------------------------------
